@@ -1,0 +1,92 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8E1CF387-FE5C-4DD0-AB4A-2EEFC3138058",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 2809,
+    "y": -172
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "72EA2F38-742C-45DE-964E-5A7C94F5D40B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61D15A37-F23A-453F-85C6-DDD4DCFB6D16"
+    },
+    {
+      "class": "bitmap",
+      "id": "D3785FA3-BA2F-49E5-9120-570FE297E846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B273374-8E29-4F20-8878-A0B6A437F76E"
+    },
+    {
+      "class": "text",
+      "id": "24826956-8FCE-4B9A-A8D5-71038400513A"
+    },
+    {
+      "class": "group",
+      "id": "354F3336-DB0A-4B4C-BFCD-1417714E01C1"
+    },
+    {
+      "class": "group",
+      "id": "01EFF94B-B182-46D2-871C-06606FF1A5C7"
+    }
+  ],
+  "name": "Login Page",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

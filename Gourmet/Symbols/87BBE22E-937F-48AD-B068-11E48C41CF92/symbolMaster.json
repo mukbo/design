@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 9,
+  "do_objectID": "87BBE22E-937F-48AD-B068-11E48C41CF92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 113,
+    "x": 2317,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92D72709-70E1-4171-8181-3E84CA0CE98E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "884B3D06-0C55-47AE-B559-E0EFEE3A3B32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EF9EDE9-EB5D-4EF8-8D76-4B5F54BDBD71"
+    },
+    {
+      "class": "bitmap",
+      "id": "2BACD245-B25B-44BA-BC08-4DB8E73D8874"
+    },
+    {
+      "class": "bitmap",
+      "id": "B6D7FE9B-2EEE-40BF-8873-2C4DC4C459C1"
+    },
+    {
+      "class": "bitmap",
+      "id": "2E33DFC3-14EA-481C-AD3D-DD7F1D06FC33"
+    },
+    {
+      "class": "bitmap",
+      "id": "B234CFA2-4733-4403-8960-55287363E3F3"
+    }
+  ],
+  "name": "Logo",
+  "nameIsFixed": false,
+  "originalObjectID": "87BBE22E-937F-48AD-B068-11E48C41CF92",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5A4C6EE6-2D6C-46C6-9C86-EF7278996C46",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

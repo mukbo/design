@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUBDRkpOVldYWVpeYmRVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANXVXBkYXRlc9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlSzAgMCAwIDAuODcAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1jY3ODkKOjs8PT4/PVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0W05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0EASAACNANAAAAAAAAIAMgA7SEgpBQqCADdIsLURFV05TQXJyYXmiRDHSLC1HSF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0dJMV8QEE5TUGFyYWdyYXBoU3R5bGXSCktMTV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpPUlWiUFGAEYASolNUgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCoAAAAAAABdUm9ib3RvLU1lZGl1bdIsLVtcXxATTlNNdXRhYmxlRGljdGlvbmFyeaNbXTFcTlNEaWN0aW9uYXJ50iwtX2BfEBBOU0ZvbnREZXNjcmlwdG9yomExXxAQTlNGb250RGVzY3JpcHRvctIsLV1jol0x0iwtZWZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZzFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRamtUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAiwCSAJoApQCpAKsArQCvALMAtQC3ALkAuwDDANYA+AEBAQcBFAEpATUBNwE5ATsBQAFFAUcBSQFOAVkBYgFvAXIBfwGIAY0BlQGYAaUBsQG8Ac4B2gHsAe4B8AH5AfsB/QICAgMCBQIKAhICFQIaAjQCOAJLAlACbQJvAnECeAJ7An0CfwKCAoQChgKIAp4CtAK9AssC0ALmAuoC9wL8Aw8DEgMlAyoDLQMyA0cDSgNfA3EDdAN5AAAAAAAAAgEAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA3s="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "44D398C6-6D2B-4395-8E1D-2D763CEF16F5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EE5B1BE-B4BB-4C73-B2A5-8AAA749553A7",
+    "height": 20,
+    "width": 49,
+    "x": 0,
+    "y": 242
+  },
+  "glyphBounds": "{{0, 0}, {48, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Updates",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9888D34D-D984-4124-8440-1FD1BBA18E90"
+  },
+  "textBehaviour": 0
+}

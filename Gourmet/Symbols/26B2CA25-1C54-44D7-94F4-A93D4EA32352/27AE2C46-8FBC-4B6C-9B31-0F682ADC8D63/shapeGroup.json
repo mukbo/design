@@ -1,0 +1,46 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "27AE2C46-8FBC-4B6C-9B31-0F682ADC8D63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47.99999999999999,
+    "width": 344,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4DB662F6-123C-4494-8578-BDADFA38788A"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": true,
+  "originalObjectID": "27AE2C46-8FBC-4B6C-9B31-0F682ADC8D63",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B2E9CAED-203F-4219-AB97-B7CF966EAAB7"
+  },
+  "windingRule": 1
+}

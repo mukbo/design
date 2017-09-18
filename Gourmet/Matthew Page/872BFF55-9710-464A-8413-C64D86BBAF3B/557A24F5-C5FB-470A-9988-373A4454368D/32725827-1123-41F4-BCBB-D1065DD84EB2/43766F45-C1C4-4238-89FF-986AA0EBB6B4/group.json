@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "43766F45-C1C4-4238-89FF-986AA0EBB6B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 154,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A82F9DE0-C79B-4296-BE3F-D72594B8B3A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DDE830B-60E4-4931-919A-62F8108643C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "743B960B-1E9C-43C9-ADC0-BDBDC92F7C26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21C86D34-10F6-4EAC-AED2-08649E27B1B1"
+    },
+    {
+      "class": "text",
+      "id": "5BB54820-27FD-436A-8921-FBD3FE5B2665"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D73E2BF-8BEF-450A-8B4E-7A02FC87C2DE"
+    },
+    {
+      "class": "text",
+      "id": "F32E6B87-F1C8-4BB5-A63B-026C7248A8C2"
+    },
+    {
+      "class": "text",
+      "id": "CCE9C0F1-17B7-4060-B686-2BA272B9CBC9"
+    },
+    {
+      "class": "group",
+      "id": "25095D3A-5AFC-4140-AB10-B8E09B1F68D2"
+    }
+  ],
+  "name": "app bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

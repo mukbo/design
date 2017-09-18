@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "844DBC9A-F716-4CA8-83D5-4B43B76C2E02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2,
+    "width": 146,
+    "x": 0,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33D90288-04EC-4DE7-ACF1-40B2B8C6276B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80564AEC-0FDB-4A64-BA9D-9BC5454521DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B923147-510A-467C-B310-E362661CC691"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FEFDE91-268F-4B34-AE83-731856B7C53F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92398651-A4CC-4424-9CC5-CA8FC48B7CDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72CB9C32-DE1A-4974-AC96-FB181B874C45"
+    }
+  ],
+  "name": "notches",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

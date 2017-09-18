@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "5456E229-8F0F-486E-B8B0-BDD6BADB71FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE4A7AD6-524E-498D-8D26-61C2A31BA495",
+    "height": 681,
+    "width": 475,
+    "x": 509,
+    "y": 98
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D7BFB78A-D91A-4C9E-928B-F90E4C321573"
+    },
+    {
+      "class": "group",
+      "id": "4A7E493A-B29A-4D73-93F6-B21DAD1C800D"
+    },
+    {
+      "class": "text",
+      "id": "2150A198-E570-4258-B989-836600EF1BBB"
+    }
+  ],
+  "name": "light theme",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
