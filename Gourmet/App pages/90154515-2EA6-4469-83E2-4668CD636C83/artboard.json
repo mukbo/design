@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "90154515-2EA6-4469-83E2-4668CD636C83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 5764,
+    "y": -3188
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ED1A6B75-E985-45FB-A280-A21D652F0BED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B54F44B0-1E25-4554-AB2D-7A215CF78252"
+    },
+    {
+      "class": "text",
+      "id": "672F2F44-D03C-42DB-A85E-FD37A56EB580"
+    },
+    {
+      "class": "text",
+      "id": "964BB9DB-D3FF-4853-9771-448F0796729F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCC6B8D9-3DCA-45A9-9ABD-FB90E0E9F7EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B75785D-D30B-436D-8328-965D99E40034"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CD429B5-BB07-4D72-890D-5689ED0D4794"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB47CC99-93C8-4EE4-8C46-7E18AC041410"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F7FEAF3-2C83-4BB8-AE6A-5EBD53F7D7AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFE32175-CB7F-450F-9C3B-8CD7FDB625F0"
+    },
+    {
+      "class": "text",
+      "id": "3369B5F8-6BAF-4502-919E-F2F068C57996"
+    },
+    {
+      "class": "text",
+      "id": "BDC6B7F6-C266-4B40-A822-1D3AA322601E"
+    },
+    {
+      "class": "text",
+      "id": "CCE68F3B-1549-4536-B529-9CE6468CC24A"
+    },
+    {
+      "class": "text",
+      "id": "AC199013-7EEE-41AE-A222-87DE7DA7D9B6"
+    },
+    {
+      "class": "text",
+      "id": "78349C86-1B57-435C-8125-53A7F2549C6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5F3C7EA-9D8C-499A-BD5C-576FD92DC3E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1D96F1D-DE94-42CA-B4EC-E4CED74EFA47"
+    },
+    {
+      "class": "group",
+      "id": "9B32F45D-4B50-44CA-A5D9-DC822A103F60"
+    },
+    {
+      "class": "group",
+      "id": "F2035965-5275-4322-81E3-7F05B8F7A1D5"
+    },
+    {
+      "class": "group",
+      "id": "6371B6EB-3C6F-4B04-B9B3-E0CD189DB66B"
+    },
+    {
+      "class": "group",
+      "id": "DB23A77A-B4CB-47EF-B4B6-63EB08D4E04E"
+    },
+    {
+      "class": "group",
+      "id": "5437BF84-9A8E-40AE-90BA-28D410D11C56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "283C4D4B-A07E-4A5C-B40B-6CDA97F59548"
+    },
+    {
+      "class": "text",
+      "id": "A0D4DF7A-5F40-4ABE-A2C8-18BEAE13027B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21B4615D-7EEF-4E59-8534-2251B6B821EA"
+    },
+    {
+      "class": "text",
+      "id": "66BF06B6-1842-4603-9BB5-9D6E39317DC1"
+    }
+  ],
+  "name": "Review Page - Select Menu (Kimchi)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

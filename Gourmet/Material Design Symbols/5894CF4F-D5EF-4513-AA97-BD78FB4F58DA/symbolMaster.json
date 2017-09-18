@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 55,
+  "do_objectID": "5894CF4F-D5EF-4513-AA97-BD78FB4F58DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "276D1EC9-ACF4-4BBA-BB12-F44302E8982E",
+    "height": 272,
+    "width": 360,
+    "x": 1360,
+    "y": 152
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "62C038B9-5EED-4594-9160-DF3804B656E6",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "22949FF8-D05E-4D7E-8734-1F385F4AB1CB"
+    },
+    {
+      "class": "group",
+      "id": "AD0DBEB6-CE5E-4EAA-AABD-31250DC77949"
+    }
+  ],
+  "name": "Material/Android/Keyboard 360dp dark",
+  "nameIsFixed": true,
+  "originalObjectID": "5894CF4F-D5EF-4513-AA97-BD78FB4F58DA",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "754B716E-E55A-4AA4-BF56-7880C7A00F25",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

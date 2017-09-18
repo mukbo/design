@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "439488EF-0559-4071-A134-1C69D631AADD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 361,
+    "x": 0,
+    "y": 86
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C17A656E-B353-45D2-9B09-CE62281DDD78"
+    },
+    {
+      "class": "text",
+      "id": "09379A18-043E-4AB6-A2E9-39C678199442"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F9EE023-C76A-4A33-996F-997CB196CE76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19D2E64C-16AB-4BA1-B07F-EEE0DCD3ED09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2502EDDB-3D22-4210-B332-1BEC75A73DC0"
+    },
+    {
+      "class": "group",
+      "id": "A0650D13-77A6-4C4A-9F8A-13D6EE11B414"
+    }
+  ],
+  "name": "Finish Reviews",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

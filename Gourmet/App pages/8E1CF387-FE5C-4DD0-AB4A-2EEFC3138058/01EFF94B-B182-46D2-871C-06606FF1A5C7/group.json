@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "01EFF94B-B182-46D2-871C-06606FF1A5C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 255,
+    "x": 53,
+    "y": 358
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0196ECD9-C798-4C11-A54F-CDA440EEF38B"
+    },
+    {
+      "class": "text",
+      "id": "0881314A-571C-4443-A862-F1049CA7C139"
+    },
+    {
+      "class": "text",
+      "id": "B02135E5-5332-4D31-B345-66E65E7E27C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1218E05-A5BD-4832-9188-9FB881090BB1"
+    }
+  ],
+  "name": "facebook login",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

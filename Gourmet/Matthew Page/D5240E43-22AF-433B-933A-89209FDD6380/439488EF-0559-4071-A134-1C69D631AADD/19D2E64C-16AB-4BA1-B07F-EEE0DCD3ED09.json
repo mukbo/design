@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "19D2E64C-16AB-4BA1-B07F-EEE0DCD3ED09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 80,
+    "x": 96,
+    "y": 34
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Review Card",
+  "nameIsFixed": false,
+  "originalObjectID": "58771854-773A-4EF2-BD32-EEA478170D0B",
+  "overrides": {
+    "3C91B44C-CDD5-49E7-8DC7-F6A6B9785492": "3 days ago",
+    "A2FF253B-D488-4753-BECE-33B5DB4613BE": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/75d761e8f8d91a98c24ca185c2b2bd61ce69b9eb",
+      "_ref_class": "MSImageData"
+    },
+    "EB46CDD3-ACFC-4B4A-BD76-BB0C95C78A4E": "Sizuka"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "16366BDB-3114-45A2-9591-7324B8B046DD",
+  "verticalSpacing": 0
+}

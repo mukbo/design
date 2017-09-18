@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "16D25F0A-08BA-442C-B998-987C3D63EF2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 433,
+    "y": -866
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3AA69E71-DC8B-4F08-A554-30BE7C3A420E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03ECA5FA-7E7E-45F5-833E-229A5DBE7A94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E729A167-F35E-4DAC-86F2-1DCB7E024C3E"
+    },
+    {
+      "class": "text",
+      "id": "AF3B3D4B-814C-462E-BA2A-7781370558F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E15CBD2F-CF8B-4939-923E-EF8E2D3A0CFE"
+    },
+    {
+      "class": "text",
+      "id": "F0A2041B-B045-41E3-9B49-B9551B6751DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5CB88575-9BE9-4BFE-980E-01696891D2B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A3E8C61-C92B-46C7-98D7-1E7DDF95D52D"
+    },
+    {
+      "class": "text",
+      "id": "486483B2-3587-4D43-802A-E7A0756AFB6D"
+    },
+    {
+      "class": "text",
+      "id": "1BF3C601-BEA1-46B1-8035-6CE458E6B690"
+    },
+    {
+      "class": "group",
+      "id": "96FC37CB-2875-4068-BC8E-E622250B661F"
+    },
+    {
+      "class": "text",
+      "id": "1DA5B788-834E-4596-896D-DFC639A2893B"
+    }
+  ],
+  "name": "Home page(for you)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

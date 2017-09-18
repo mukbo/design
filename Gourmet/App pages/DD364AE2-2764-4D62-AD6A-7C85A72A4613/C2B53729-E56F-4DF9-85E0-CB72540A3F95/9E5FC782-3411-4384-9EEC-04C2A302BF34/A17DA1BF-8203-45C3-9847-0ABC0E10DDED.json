@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A17DA1BF-8203-45C3-9847-0ABC0E10DDED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 360,
+    "x": 0,
+    "y": 245
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 19,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Dish Card",
+  "nameIsFixed": false,
+  "originalObjectID": "935CA1B2-7CE0-4A30-B907-BA4D7A76664E",
+  "overrides": {
+    "14570AC5-24AD-4559-B2EC-BECE83D6280F": "at Osaka Tako",
+    "16282DCE-F92A-4E2D-89F0-111A5E54E7D5": "(53)",
+    "5F6C4A45-EBC2-45F0-A7CC-A438B7DC1E6F": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/2b39b9789bdefe246667885e93b31ed3a4734746",
+      "_ref_class": "MSImageData"
+    },
+    "82D18839-C289-4200-8518-7B771400A86B": "0.3km",
+    "84BC0FC3-FCC0-4894-B7BF-607D63D3EC14": "$8.99",
+    "A335C7E7-4462-4F7F-B396-51B19991A99B": "4.7",
+    "DA8A6E34-FD19-4C09-B886-7C9241E81313": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/593da436297026d6f13a563ce66fdef85ed719a1",
+      "_ref_class": "MSImageData"
+    },
+    "F6331815-BBB2-44A8-9C55-274591E60885": "TakoYaki"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "21EADF4C-09A8-4182-8CE1-69338B1CBEE2",
+  "verticalSpacing": 0
+}

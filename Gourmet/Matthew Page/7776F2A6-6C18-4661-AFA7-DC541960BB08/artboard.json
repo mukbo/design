@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7776F2A6-6C18-4661-AFA7-DC541960BB08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 433,
+    "y": -62
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1AECD76B-52F4-4D5A-A41B-F223D7BAB31C"
+    },
+    {
+      "class": "group",
+      "id": "2B3B1994-CB6D-4368-BBED-F693670D21BB"
+    },
+    {
+      "class": "group",
+      "id": "598CBB34-656F-4583-B5FE-E95FA5A36E1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFDC9539-8BF0-400B-AB33-265C6694B199"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88CA180C-44E4-44E3-9575-5869FBBE58A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD58CCCA-89F8-4EEA-9E77-AD6738DFE8EB"
+    },
+    {
+      "class": "text",
+      "id": "5E059329-F57D-4EB4-AAF8-1815DC768FD6"
+    },
+    {
+      "class": "text",
+      "id": "562430B6-63B9-4778-9B28-AA79BB190992"
+    },
+    {
+      "class": "text",
+      "id": "C6EDA478-E21B-4F49-9644-FA34657598C5"
+    },
+    {
+      "class": "text",
+      "id": "7DBD852C-CBF6-44A9-ABE5-3AFE9B21C797"
+    },
+    {
+      "class": "text",
+      "id": "EF6E42C3-97CC-47AC-959E-A0D5875C8C8F"
+    },
+    {
+      "class": "text",
+      "id": "032BCF1A-7D71-4D3D-BDAB-2BB97253E088"
+    },
+    {
+      "class": "text",
+      "id": "78795BED-D268-4A41-9739-95605799EBA4"
+    },
+    {
+      "class": "text",
+      "id": "93897CDD-7F3B-4F15-A77F-39FBB03F885C"
+    },
+    {
+      "class": "text",
+      "id": "1F5B9F01-F821-425A-BC0F-E46298F1624C"
+    },
+    {
+      "class": "group",
+      "id": "E06BCCB5-D891-44E9-91DD-B4F81C516765"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD75494F-ABF0-4763-B9E6-66234B7A9ECC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0ED7258-ED5D-4F93-B0DC-97CFFFCB4F6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC47E1E4-13DF-4A25-8CC0-79A78513A2DC"
+    },
+    {
+      "class": "text",
+      "id": "EC63D990-00BB-4928-95DE-2AFD697FB462"
+    },
+    {
+      "class": "text",
+      "id": "D4EEE12F-167D-4A84-951A-825F0649627B"
+    },
+    {
+      "class": "text",
+      "id": "89C6EFCA-133E-4A71-B7D1-AD1E65E391A6"
+    }
+  ],
+  "name": "Search Restaurant",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
