@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "A265C8DB-CD9C-484E-95CB-5FA623254FC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1207,
+    "y": 681
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "AC98CD4C-3521-441A-80FA-85E0A5D2269A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D9EEA93-69C6-4C75-8EFF-AD1479B8B2D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54A200A6-0C85-4D30-AB07-0514E3FC6E69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06DE0C7D-92F7-4628-9876-C96A227C37C4"
+    },
+    {
+      "class": "text",
+      "id": "628DD339-3AC2-44FD-8583-9EAFA6EF617B"
+    },
+    {
+      "class": "text",
+      "id": "1FA81D7F-0995-42DD-A138-39D5CECECED2"
+    },
+    {
+      "class": "group",
+      "id": "D2E14D80-6E16-4C3A-83E6-3707B731BCFB"
+    },
+    {
+      "class": "group",
+      "id": "1D147976-18E0-45CE-AAA6-498759A98C16"
+    },
+    {
+      "class": "group",
+      "id": "A41B55CC-2BB5-4AE3-AAFA-17F4F1B98BC9"
+    },
+    {
+      "class": "group",
+      "id": "BCD8DA39-2B8B-489F-9D28-69ADF8982394"
+    },
+    {
+      "class": "group",
+      "id": "B7E0EB68-1915-4296-9243-93CCDB9B58E6"
+    },
+    {
+      "class": "group",
+      "id": "58BF6E84-74F8-4C4F-AB3D-CEE66908D45D"
+    },
+    {
+      "class": "group",
+      "id": "60DB042E-2F02-4B5C-9E03-91816C0FCEAE"
+    },
+    {
+      "class": "group",
+      "id": "E72209B7-DBA8-4F80-9744-BE454AFB3DBE"
+    },
+    {
+      "class": "text",
+      "id": "7B24FAFB-201A-406D-BF99-D803F103A0DB"
+    },
+    {
+      "class": "text",
+      "id": "D2FE5EC8-4529-4ABA-8281-B421BE8F5750"
+    }
+  ],
+  "name": "Dish Review (Select Dish) Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
