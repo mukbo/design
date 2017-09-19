@@ -59,18 +59,6 @@
     },
     {
       "class": "text",
-      "id": "CC6996AC-EAA9-4998-98E1-FB1CEC861162"
-    },
-    {
-      "class": "text",
-      "id": "DC746E03-519A-4058-BDBF-CF728394DDA6"
-    },
-    {
-      "class": "text",
-      "id": "2816CD4A-DE52-4AAE-B3D7-30595BA2745C"
-    },
-    {
-      "class": "text",
       "id": "06FF735B-2E4F-4381-AB92-CE1BF9FD807B"
     },
     {
@@ -100,6 +88,18 @@
     {
       "class": "group",
       "id": "EB7D9762-3D93-4542-BF78-ED6A37940D0C"
+    },
+    {
+      "class": "text",
+      "id": "0A70DA53-0574-450C-A792-DBCA1B4FC086"
+    },
+    {
+      "class": "text",
+      "id": "83AEE8A9-DAE5-41AF-BC33-08D99D7753B7"
+    },
+    {
+      "class": "text",
+      "id": "5286C936-9454-4FAB-831D-1A2C5A04900D"
     }
   ],
   "name": "Dish Review (Select Dish) Copy",
