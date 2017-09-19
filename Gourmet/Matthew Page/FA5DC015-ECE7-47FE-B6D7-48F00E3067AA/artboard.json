@@ -26,7 +26,7 @@
     "y": 681
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,22 +48,6 @@
     {
       "class": "symbolInstance",
       "id": "04DA105E-430D-47FA-92A7-33231F688F12"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BF968505-FF27-4277-BEBE-11FA708D3D42"
-    },
-    {
-      "class": "text",
-      "id": "8AE94543-8E1F-4DA5-8A41-FAA8CAE20D84"
-    },
-    {
-      "class": "text",
-      "id": "2275D4E4-546C-43E8-A950-E6534BCF99A9"
-    },
-    {
-      "class": "text",
-      "id": "23B5D638-E4C2-4A23-9FA5-3BE793FBBEFF"
     },
     {
       "class": "shapeGroup",
@@ -112,6 +96,22 @@
     {
       "class": "text",
       "id": "4B2B4058-71E9-4C25-A36F-D12DAB3D37F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF282F4E-F634-42B4-8991-CF70DE666069"
+    },
+    {
+      "class": "text",
+      "id": "530487EC-88DE-42A9-8A42-53513A76C9A9"
+    },
+    {
+      "class": "text",
+      "id": "A43E12C0-1518-4750-AA7F-2C867CBB7D1B"
+    },
+    {
+      "class": "text",
+      "id": "E633AC2A-2DB3-4521-B36B-F59C30531255"
     }
   ],
   "name": "Dish Review (Dish Filter)",

@@ -26,7 +26,7 @@
     "y": 681
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,24 +54,24 @@
       "id": "F0421803-024E-42AC-90A9-853428245E20"
     },
     {
-      "class": "shapeGroup",
-      "id": "FE32AEF4-532F-4038-A135-20CD07E19EC1"
-    },
-    {
-      "class": "text",
-      "id": "3F56BCA5-6956-449E-B037-F40EE8278361"
-    },
-    {
-      "class": "text",
-      "id": "C63C2A03-8FF1-4D84-B0E2-17B680AEA8F1"
-    },
-    {
-      "class": "text",
-      "id": "0A8264A1-1C74-4E5D-9249-93F9439025ED"
-    },
-    {
       "class": "text",
       "id": "5768534F-0A61-4649-A1EA-0434C7C1471D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E209816F-7615-4852-972A-296C8F93E2DD"
+    },
+    {
+      "class": "text",
+      "id": "7521F524-A862-48EB-BE08-2E8AF0C59704"
+    },
+    {
+      "class": "text",
+      "id": "7CFE1EA6-2491-4379-8416-C65588948A2B"
+    },
+    {
+      "class": "text",
+      "id": "AA8B70D7-514A-4ADA-8AB5-2A7A64D0E0F1"
     }
   ],
   "name": "Dish Review (Write Review)",

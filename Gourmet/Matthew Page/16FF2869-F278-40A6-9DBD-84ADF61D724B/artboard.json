@@ -26,7 +26,7 @@
     "y": 681
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,18 +52,6 @@
     {
       "class": "symbolInstance",
       "id": "DF67A605-0F84-46C0-8104-476734AC710E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3662C1DF-0C63-4D57-8A23-7C2F8893EE0D"
-    },
-    {
-      "class": "text",
-      "id": "125F8AA9-FB87-4D53-B8C4-B3B2A58F89C3"
-    },
-    {
-      "class": "text",
-      "id": "285CB6D4-0B29-467C-AE41-ECC8F1891FEF"
     },
     {
       "class": "bitmap",
@@ -94,8 +82,20 @@
       "id": "5B209B8C-A3BE-49AC-8808-E2ACAC449D1E"
     },
     {
+      "class": "shapeGroup",
+      "id": "F034EF8C-B1F9-4EFA-AD01-335032743A6A"
+    },
+    {
       "class": "text",
-      "id": "F5016E89-FF22-4670-A840-38F748C2E4F9"
+      "id": "345EE819-66D4-44B2-9EC9-F709FA0FCDCB"
+    },
+    {
+      "class": "text",
+      "id": "5ACF33B1-D904-4393-A39C-3D5FA2DAEE6B"
+    },
+    {
+      "class": "text",
+      "id": "870CEDC2-7C92-4717-BA78-E0B711D3BE6B"
     }
   ],
   "name": "Dish Review (Select Photo)",

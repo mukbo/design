@@ -46,10 +46,6 @@
       "id": "158EB6AC-994C-48BF-8D74-C8B7838D0542"
     },
     {
-      "class": "text",
-      "id": "85478298-12B4-4466-928C-83B725D1EB08"
-    },
-    {
       "class": "shapeGroup",
       "id": "F03D9CDA-13D0-45DB-A16E-E44F73F53E39"
     },
@@ -74,10 +70,6 @@
       "id": "E343D678-5798-4E11-9390-050C1C6CB3CB"
     },
     {
-      "class": "text",
-      "id": "11EEFAEF-7EDA-4ECC-8C21-89699CA1C536"
-    },
-    {
       "class": "shapeGroup",
       "id": "9B2C387F-7D5C-49CD-B9E6-63E98ECC1B68"
     },
@@ -87,19 +79,19 @@
     },
     {
       "class": "shapeGroup",
-      "id": "77C5D041-D019-4F24-B3F5-28054CF8115A"
+      "id": "5E3A0688-385E-4FE7-B1B0-E259097B5748"
     },
     {
       "class": "text",
-      "id": "FB865AE4-DB6C-4709-85D9-1CA7251168E0"
+      "id": "F48D7964-7EC4-4348-8D49-F9D3157DA7C5"
     },
     {
       "class": "text",
-      "id": "45BC4B64-2DAA-4F80-8B59-489CD43E147F"
+      "id": "55F9D4A3-EA11-4A85-B431-2F91A9CAC7E7"
     },
     {
       "class": "text",
-      "id": "8B649F6C-7076-44AB-86C6-D9C322D16AF3"
+      "id": "AFA1C061-2F85-451B-946E-44F146B8A78D"
     }
   ],
   "name": "Dish Review (Select Restaurant)",

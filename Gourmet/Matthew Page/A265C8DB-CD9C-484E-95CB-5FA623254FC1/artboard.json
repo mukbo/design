@@ -26,7 +26,7 @@
     "y": 681
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,55 +55,51 @@
     },
     {
       "class": "shapeGroup",
-      "id": "06DE0C7D-92F7-4628-9876-C96A227C37C4"
+      "id": "9448E8FF-0BBA-46B5-BDDF-1E3E50AE7675"
     },
     {
       "class": "text",
-      "id": "628DD339-3AC2-44FD-8583-9EAFA6EF617B"
+      "id": "CC6996AC-EAA9-4998-98E1-FB1CEC861162"
     },
     {
       "class": "text",
-      "id": "1FA81D7F-0995-42DD-A138-39D5CECECED2"
-    },
-    {
-      "class": "group",
-      "id": "D2E14D80-6E16-4C3A-83E6-3707B731BCFB"
-    },
-    {
-      "class": "group",
-      "id": "1D147976-18E0-45CE-AAA6-498759A98C16"
-    },
-    {
-      "class": "group",
-      "id": "A41B55CC-2BB5-4AE3-AAFA-17F4F1B98BC9"
-    },
-    {
-      "class": "group",
-      "id": "BCD8DA39-2B8B-489F-9D28-69ADF8982394"
-    },
-    {
-      "class": "group",
-      "id": "B7E0EB68-1915-4296-9243-93CCDB9B58E6"
-    },
-    {
-      "class": "group",
-      "id": "58BF6E84-74F8-4C4F-AB3D-CEE66908D45D"
-    },
-    {
-      "class": "group",
-      "id": "60DB042E-2F02-4B5C-9E03-91816C0FCEAE"
-    },
-    {
-      "class": "group",
-      "id": "E72209B7-DBA8-4F80-9744-BE454AFB3DBE"
+      "id": "DC746E03-519A-4058-BDBF-CF728394DDA6"
     },
     {
       "class": "text",
-      "id": "7B24FAFB-201A-406D-BF99-D803F103A0DB"
+      "id": "2816CD4A-DE52-4AAE-B3D7-30595BA2745C"
     },
     {
       "class": "text",
-      "id": "D2FE5EC8-4529-4ABA-8281-B421BE8F5750"
+      "id": "06FF735B-2E4F-4381-AB92-CE1BF9FD807B"
+    },
+    {
+      "class": "group",
+      "id": "439FF866-61DA-4EB4-A276-A4B7A3F3D9FB"
+    },
+    {
+      "class": "group",
+      "id": "2E19DFA5-7B8C-444C-B1A2-C5837B719E92"
+    },
+    {
+      "class": "group",
+      "id": "12B453C6-F39A-47BC-AC8D-9F8D8D8EBB8D"
+    },
+    {
+      "class": "group",
+      "id": "BA89D5F7-EE9A-4BDA-A5B8-AF8E7FA0E681"
+    },
+    {
+      "class": "group",
+      "id": "0311D007-4FF8-447A-8691-A0DCCB22FF68"
+    },
+    {
+      "class": "group",
+      "id": "39A11DDB-7015-4C66-A324-062766B7EFAC"
+    },
+    {
+      "class": "group",
+      "id": "EB7D9762-3D93-4542-BF78-ED6A37940D0C"
     }
   ],
   "name": "Dish Review (Select Dish) Copy",
