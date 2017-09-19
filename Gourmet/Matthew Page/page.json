@@ -132,10 +132,6 @@
     },
     {
       "class": "artboard",
-      "id": "706CD70F-8E32-4F5B-A22D-557EEA3CD985"
-    },
-    {
-      "class": "artboard",
       "id": "DADB7777-B6A3-46AE-811A-66FCFC044895"
     },
     {
@@ -181,6 +177,10 @@
     {
       "class": "artboard",
       "id": "FA5DC015-ECE7-47FE-B6D7-48F00E3067AA"
+    },
+    {
+      "class": "artboard",
+      "id": "16FF2869-F278-40A6-9DBD-84ADF61D724B"
     }
   ],
   "name": "Matthew Page",
