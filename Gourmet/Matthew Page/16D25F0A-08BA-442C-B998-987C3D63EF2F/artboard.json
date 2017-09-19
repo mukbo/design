@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 433,
-    "y": -866
+    "x": -35,
+    "y": -62
   },
   "grid": {
     "_class": "simpleGrid",
@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -82,6 +82,30 @@
     {
       "class": "text",
       "id": "486483B2-3587-4D43-802A-E7A0756AFB6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8E70FD3-3220-4E34-B6FB-E5F3623150D6"
+    },
+    {
+      "class": "text",
+      "id": "B33427B1-01E8-4B6C-911D-8EE6D1F748AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "627E24FA-92D2-4BE2-A65B-C53D7F78D6BF"
+    },
+    {
+      "class": "text",
+      "id": "E63BD8FB-ADEB-4572-A484-EF502756495D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B59BF9E4-711B-4024-84C6-4A98E21DEFF7"
+    },
+    {
+      "class": "text",
+      "id": "BB6E2A93-D382-46E4-BC6A-02D60FAD89D3"
     },
     {
       "class": "text",
