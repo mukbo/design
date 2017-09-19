@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -168,7 +168,7 @@
       "id": "557A24F5-C5FB-470A-9988-373A4454368D"
     }
   ],
-  "name": "Search Dish Copy",
+  "name": "Community (Popular)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

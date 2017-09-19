@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -176,7 +176,7 @@
       "id": "32592560-1627-469C-B35C-BBBC22AF4563"
     }
   ],
-  "name": "Home page(for you)",
+  "name": "Home Page",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

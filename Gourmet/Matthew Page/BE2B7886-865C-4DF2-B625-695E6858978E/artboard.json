@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 3384,
-    "y": 703
+    "x": 2215,
+    "y": 687
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -74,7 +74,7 @@
       "id": "5768534F-0A61-4649-A1EA-0434C7C1471D"
     }
   ],
-  "name": "Review Page - Write Review (uncomplete)",
+  "name": "Dish Review (Write Review)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

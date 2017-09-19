@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -152,7 +152,7 @@
       "id": "6B29C260-EEE8-4CD3-A11E-A990B844518A"
     }
   ],
-  "name": "Search Page - Restaurant",
+  "name": "Search Result (Restaurant)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

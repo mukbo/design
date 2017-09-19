@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -180,7 +180,7 @@
       "id": "6081BB6A-8572-40E6-8F82-6E9A68676713"
     }
   ],
-  "name": "Search Page - Dish",
+  "name": "Search Result (Dish)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

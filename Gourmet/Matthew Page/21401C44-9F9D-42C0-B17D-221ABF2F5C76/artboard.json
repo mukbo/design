@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 2528,
-    "y": 703
+    "x": 1359,
+    "y": 687
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -102,7 +102,7 @@
       "id": "06FF735B-2E4F-4381-AB92-CE1BF9FD807B"
     }
   ],
-  "name": "Review Page - Write Review (uncomplete)",
+  "name": "Dish Review (Select Dish)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
