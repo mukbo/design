@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 823,
-    "y": 687
+    "x": 379,
+    "y": 686
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,10 +56,6 @@
     {
       "class": "shapeGroup",
       "id": "3662C1DF-0C63-4D57-8A23-7C2F8893EE0D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "36A144CD-4333-4730-933E-B2BDFED400B4"
     },
     {
       "class": "text",
@@ -96,6 +92,10 @@
     {
       "class": "bitmap",
       "id": "5B209B8C-A3BE-49AC-8808-E2ACAC449D1E"
+    },
+    {
+      "class": "text",
+      "id": "F5016E89-FF22-4670-A840-38F748C2E4F9"
     }
   ],
   "name": "Dish Review (Select Photo)",
