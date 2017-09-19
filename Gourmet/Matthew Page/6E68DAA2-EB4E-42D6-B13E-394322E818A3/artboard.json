@@ -161,14 +161,26 @@
     },
     {
       "class": "text",
+      "id": "9AC54D82-CA1C-4D52-BC29-0FD6AF49817E"
+    },
+    {
+      "class": "text",
+      "id": "DC40D727-99E6-4A9A-A5F5-D663311147B5"
+    },
+    {
+      "class": "text",
       "id": "D24DA76C-0CC7-4ADA-AC53-D6FF6789214F"
     },
     {
       "class": "text",
       "id": "AB2C2AB8-01B4-4FAB-947B-B082E7BDC762"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6081BB6A-8572-40E6-8F82-6E9A68676713"
     }
   ],
-  "name": "Search Dish",
+  "name": "Search Page - Dish",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -1,0 +1,108 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7C392E72-C004-4CE8-8344-40AF185D01A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1,
+    "width": 360,
+    "x": 0,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C607CC8C-13B3-4853-AD33-077E2A2ADF4F"
+    }
+  ],
+  "name": "app bar bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.24,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 4,
+        "spread": 0
+      },
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
