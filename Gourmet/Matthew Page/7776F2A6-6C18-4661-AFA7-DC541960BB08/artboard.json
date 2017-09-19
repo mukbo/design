@@ -48,10 +48,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "1AECD76B-52F4-4D5A-A41B-F223D7BAB31C"
-    },
-    {
       "class": "group",
       "id": "2B3B1994-CB6D-4368-BBED-F693670D21BB"
     },
@@ -108,10 +104,6 @@
       "id": "1F5B9F01-F821-425A-BC0F-E46298F1624C"
     },
     {
-      "class": "group",
-      "id": "E06BCCB5-D891-44E9-91DD-B4F81C516765"
-    },
-    {
       "class": "shapeGroup",
       "id": "DD75494F-ABF0-4763-B9E6-66234B7A9ECC"
     },
@@ -134,9 +126,33 @@
     {
       "class": "text",
       "id": "89C6EFCA-133E-4A71-B7D1-AD1E65E391A6"
+    },
+    {
+      "class": "group",
+      "id": "4432E3FC-F723-48C0-9352-397B39E74BB7"
+    },
+    {
+      "class": "text",
+      "id": "E1E1D63E-84F7-4EBD-A0B5-F77ADA80070C"
+    },
+    {
+      "class": "text",
+      "id": "3A149FA6-A65B-42A6-86A5-6FEEDC371DA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A771DDFD-C004-4298-B2F1-C15AA251EDAE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A67156B-ED17-4307-913F-74868B5F12B1"
+    },
+    {
+      "class": "text",
+      "id": "6B29C260-EEE8-4CD3-A11E-A990B844518A"
     }
   ],
-  "name": "Search Restaurant",
+  "name": "Search Page - Restaurant",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
