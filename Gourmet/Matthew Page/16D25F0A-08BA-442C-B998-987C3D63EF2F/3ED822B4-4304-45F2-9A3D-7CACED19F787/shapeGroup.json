@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "B8E70FD3-3220-4E34-B6FB-E5F3623150D6",
+  "do_objectID": "3ED822B4-4304-45F2-9A3D-7CACED19F787",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0.5,
-    "width": 326,
-    "x": 24,
-    "y": 169
+    "height": 3,
+    "width": 360,
+    "x": 0,
+    "y": 148
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "9AB527BE-3FAF-486E-BCC9-10DFEFF202EF"
+      "id": "FC4677AF-0CBB-4E6A-9779-83314E6C74BE"
     }
   ],
   "name": "Line 2 Copy",
