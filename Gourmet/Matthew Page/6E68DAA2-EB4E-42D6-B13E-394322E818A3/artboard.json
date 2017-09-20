@@ -28,7 +28,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,

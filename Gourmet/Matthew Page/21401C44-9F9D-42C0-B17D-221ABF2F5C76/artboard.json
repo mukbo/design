@@ -42,34 +42,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "F6CE37B9-34E6-4BB3-8AE7-491075420B51"
-    },
-    {
-      "class": "group",
-      "id": "D08789DE-9B57-45EB-90F7-3C4BA9011CE2"
-    },
-    {
-      "class": "group",
-      "id": "23C2604D-C0DB-4E3B-A37E-9DD0803679FE"
-    },
-    {
-      "class": "group",
-      "id": "13FE6422-36BC-4987-8540-9D8EA46D3AD2"
-    },
-    {
-      "class": "group",
-      "id": "B5DDD7CB-A213-415E-B2D3-C6C2D24EC59A"
-    },
-    {
-      "class": "group",
-      "id": "B79CAC37-58E7-4F7D-8165-2D78B8728055"
-    },
-    {
-      "class": "group",
-      "id": "9884576E-DD9E-4B7F-A622-70F4299E5D87"
-    },
-    {
       "class": "shapeGroup",
       "id": "2F421359-BBE6-4566-94A4-E31600E21B83"
     },
@@ -78,16 +50,8 @@
       "id": "6964714A-59F9-4ECD-A5D9-22D85C9E579E"
     },
     {
-      "class": "group",
-      "id": "4FC3388C-46DF-4AF7-AB55-09D89D0031B6"
-    },
-    {
       "class": "shapeGroup",
       "id": "0248524C-0378-41FC-9844-398787FBD638"
-    },
-    {
-      "class": "text",
-      "id": "E6542977-C895-4C06-BB2E-67628DC9F348"
     },
     {
       "class": "text",
@@ -98,8 +62,32 @@
       "id": "38D929FA-5FD0-4F17-8561-09F985FE2A7F"
     },
     {
-      "class": "text",
-      "id": "F87B0B84-40A8-46BA-BD36-46DB0D553BBC"
+      "class": "group",
+      "id": "9B533CEE-4D7B-40D4-B264-CCFCDB7ECA6A"
+    },
+    {
+      "class": "group",
+      "id": "EE59472C-B00B-4291-BD7D-60E5264FB2F9"
+    },
+    {
+      "class": "group",
+      "id": "B4679C21-7134-42C5-B4D7-A9B555C431BF"
+    },
+    {
+      "class": "group",
+      "id": "F0F880FB-0792-4760-A9A1-D0178E31447F"
+    },
+    {
+      "class": "group",
+      "id": "1D54E8A9-6E7E-4D4F-803C-A7CE19033DFB"
+    },
+    {
+      "class": "group",
+      "id": "96C3FCDA-E3FF-497D-8A08-640D376283B6"
+    },
+    {
+      "class": "group",
+      "id": "4FC3388C-46DF-4AF7-AB55-09D89D0031B6"
     }
   ],
   "name": "Dish Review (Select Dish)",
