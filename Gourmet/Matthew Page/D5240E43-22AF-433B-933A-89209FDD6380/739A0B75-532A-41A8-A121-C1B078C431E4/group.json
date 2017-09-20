@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 35,
-    "x": 144,
+    "height": 27,
+    "width": 39,
+    "x": 140,
     "y": 147
   },
   "hasClickThrough": false,

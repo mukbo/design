@@ -160,12 +160,28 @@
       "id": "D24DA76C-0CC7-4ADA-AC53-D6FF6789214F"
     },
     {
-      "class": "symbolInstance",
-      "id": "926C358B-C46F-45D7-A707-A5C6A240F447"
+      "class": "text",
+      "id": "F074A8BD-B917-45D0-8E20-8EBC790FA601"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3774335-C6E2-4D80-A9D9-5D4462812ABD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5685A41A-6E8C-4D18-8F27-48F55D5D133D"
     },
     {
       "class": "text",
-      "id": "F074A8BD-B917-45D0-8E20-8EBC790FA601"
+      "id": "6889337D-2C5A-41A6-9538-B9A18926E6E4"
+    },
+    {
+      "class": "text",
+      "id": "F8008606-C611-46AE-A791-C76E40573C47"
+    },
+    {
+      "class": "text",
+      "id": "4C3F5B04-1522-464C-B145-CDB8B6D44483"
     }
   ],
   "name": "Search Result (Dish)",

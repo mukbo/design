@@ -52,28 +52,12 @@
       "id": "583D2282-744D-40E8-B2BA-8D3E1491B5C8"
     },
     {
-      "class": "bitmap",
-      "id": "AB55E94F-083F-4819-94F2-0083401C4FD0"
-    },
-    {
-      "class": "bitmap",
-      "id": "13987009-BAD6-4542-971C-9A05800BE252"
-    },
-    {
       "class": "group",
       "id": "E9858509-3A5B-4156-8F24-BD6001BFB704"
     },
     {
       "class": "group",
       "id": "A05C5E99-671B-4067-92DB-172256D214DD"
-    },
-    {
-      "class": "group",
-      "id": "B8CE28D3-13B6-48BF-AD02-A70F63C1E749"
-    },
-    {
-      "class": "group",
-      "id": "BC5A3B0B-E025-4760-8CDB-1F04FFFB4296"
     },
     {
       "class": "shapeGroup",
@@ -101,7 +85,15 @@
     },
     {
       "class": "bitmap",
-      "id": "AB9D126E-C62B-4D99-B0B3-7CA0ED09C1FF"
+      "id": "A52D9976-08DD-45E5-92DD-6F4BFFD73FF4"
+    },
+    {
+      "class": "bitmap",
+      "id": "3DE4DC56-0B1C-49C6-8B64-FB5B71A2E6CA"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB6FAC63-2F53-45D5-BD89-58423CCCCC53"
     },
     {
       "class": "group",
@@ -153,7 +145,15 @@
     },
     {
       "class": "group",
-      "id": "43DCD8AF-AA35-47C2-827F-373BCAF09197"
+      "id": "42B00E19-B99F-4FE4-83F2-0501CA10C44C"
+    },
+    {
+      "class": "group",
+      "id": "1B8F2A78-993A-40C3-8331-9D3DF61E6B15"
+    },
+    {
+      "class": "group",
+      "id": "98C5ADB0-FC63-4E26-8DE0-4A06D2CB9334"
     }
   ],
   "name": "Home Page",
