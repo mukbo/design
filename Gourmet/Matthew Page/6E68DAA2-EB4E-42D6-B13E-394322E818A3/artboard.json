@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,10 +47,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "C8530593-A98D-467D-951A-543D9292E5B6"
-    },
     {
       "class": "text",
       "id": "3E9561FB-011E-43F7-971C-9FBC1530D22B"
@@ -161,23 +157,15 @@
     },
     {
       "class": "text",
-      "id": "9AC54D82-CA1C-4D52-BC29-0FD6AF49817E"
-    },
-    {
-      "class": "text",
-      "id": "DC40D727-99E6-4A9A-A5F5-D663311147B5"
-    },
-    {
-      "class": "text",
       "id": "D24DA76C-0CC7-4ADA-AC53-D6FF6789214F"
     },
     {
-      "class": "text",
-      "id": "AB2C2AB8-01B4-4FAB-947B-B082E7BDC762"
+      "class": "symbolInstance",
+      "id": "926C358B-C46F-45D7-A707-A5C6A240F447"
     },
     {
-      "class": "shapeGroup",
-      "id": "6081BB6A-8572-40E6-8F82-6E9A68676713"
+      "class": "text",
+      "id": "F074A8BD-B917-45D0-8E20-8EBC790FA601"
     }
   ],
   "name": "Search Result (Dish)",

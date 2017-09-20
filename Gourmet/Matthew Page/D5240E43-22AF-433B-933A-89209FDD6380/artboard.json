@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,16 +48,40 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "583D2282-744D-40E8-B2BA-8D3E1491B5C8"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB55E94F-083F-4819-94F2-0083401C4FD0"
+    },
+    {
+      "class": "bitmap",
+      "id": "13987009-BAD6-4542-971C-9A05800BE252"
+    },
+    {
+      "class": "group",
+      "id": "E9858509-3A5B-4156-8F24-BD6001BFB704"
+    },
+    {
+      "class": "group",
+      "id": "A05C5E99-671B-4067-92DB-172256D214DD"
+    },
+    {
+      "class": "group",
+      "id": "B8CE28D3-13B6-48BF-AD02-A70F63C1E749"
+    },
+    {
+      "class": "group",
+      "id": "BC5A3B0B-E025-4760-8CDB-1F04FFFB4296"
+    },
+    {
       "class": "shapeGroup",
       "id": "C6ADCB82-2EFF-4592-A331-2B57FE34213E"
     },
     {
       "class": "symbolInstance",
       "id": "99A9EA03-C045-4F58-B705-A9D8140367CF"
-    },
-    {
-      "class": "group",
-      "id": "439488EF-0559-4071-A134-1C69D631AADD"
     },
     {
       "class": "shapeGroup",
@@ -72,32 +96,12 @@
       "id": "7AAC67F4-7CCD-4C13-B78E-4476632471B4"
     },
     {
-      "class": "text",
-      "id": "8A3233D6-E0BB-4EF3-9211-58B771036762"
-    },
-    {
       "class": "bitmap",
       "id": "259D1997-D86C-43AA-82B9-8DBFD6482C26"
     },
     {
       "class": "bitmap",
-      "id": "B7727997-6EC0-45EC-A128-D0B1DAF8EDB2"
-    },
-    {
-      "class": "bitmap",
-      "id": "374EC1CA-3AB8-46D6-B346-254D1153A26A"
-    },
-    {
-      "class": "bitmap",
-      "id": "6C18871A-2E1C-467E-BD05-38110E64472D"
-    },
-    {
-      "class": "bitmap",
-      "id": "0C3F1A28-6E2A-40C1-A51A-25C3ED72029F"
-    },
-    {
-      "class": "bitmap",
-      "id": "EFC87871-3F20-4A79-8250-53D94A427A9B"
+      "id": "AB9D126E-C62B-4D99-B0B3-7CA0ED09C1FF"
     },
     {
       "class": "group",
@@ -105,23 +109,7 @@
     },
     {
       "class": "group",
-      "id": "0E0DE7EE-0E48-45E0-A503-29E547634E98"
-    },
-    {
-      "class": "group",
-      "id": "BBF81B2C-23F5-4AF5-8AA3-A566ED5B2914"
-    },
-    {
-      "class": "group",
-      "id": "37F56653-B108-4929-A438-B1809B70CDB5"
-    },
-    {
-      "class": "group",
-      "id": "8E3A7F32-6145-4C31-8D07-831873D19A04"
-    },
-    {
-      "class": "group",
-      "id": "7C8811FF-EE83-4490-BCB5-2ABDD6A1AAC1"
+      "id": "5E750A01-7110-4699-ADFF-94BB7FC4E169"
     },
     {
       "class": "shapeGroup",
@@ -165,15 +153,7 @@
     },
     {
       "class": "group",
-      "id": "E231C937-1950-4AA2-9D51-4D23DFDCB3C5"
-    },
-    {
-      "class": "group",
-      "id": "8C1EE13F-EBD8-4076-BB8D-EF98FCC380DB"
-    },
-    {
-      "class": "group",
-      "id": "32592560-1627-469C-B35C-BBBC22AF4563"
+      "id": "43DCD8AF-AA35-47C2-827F-373BCAF09197"
     }
   ],
   "name": "Home Page",
