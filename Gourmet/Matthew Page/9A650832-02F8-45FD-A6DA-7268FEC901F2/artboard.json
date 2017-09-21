@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 1207,
-    "y": -60
+    "x": 793,
+    "y": -747
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -51,54 +51,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "FAB0C4FC-D66C-465D-B633-6876DE476C27"
-    },
-    {
-      "class": "text",
-      "id": "D6C8AE05-C4EB-42A3-AD43-69C457B7582E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "70FF4519-ABD6-4FD1-9519-D7DA10FE87D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "81626EBD-445B-48AE-8B44-ADCAAFF967CB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C4D543E1-661D-43B2-9744-4CED9930C3D6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "44C0D20F-C58A-4573-A31F-5649B0A167B1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1FCEFEDC-0F6C-41A1-BFC0-DCF68175D38C"
-    },
-    {
-      "class": "text",
-      "id": "25A69C1F-D937-4898-8AFC-EAAE7F711E11"
-    },
-    {
-      "class": "text",
-      "id": "2C32681D-26AE-4247-BD5C-E86274FA8DAB"
-    },
-    {
-      "class": "text",
-      "id": "0CABBA02-2B70-47C5-8010-06AA65131DC1"
-    },
-    {
-      "class": "text",
-      "id": "560984AD-5B6B-41E8-8436-8E56C3D5A9E4"
-    },
-    {
-      "class": "text",
-      "id": "81D8E3B6-D979-48D9-868E-364DE7804825"
-    },
-    {
-      "class": "shapeGroup",
       "id": "87158E97-9D4E-42EC-BF1E-F4B05149CC15"
     },
     {
@@ -112,6 +64,26 @@
     {
       "class": "text",
       "id": "B388FACA-47E0-4DDB-BD6E-5916EFC82A12"
+    },
+    {
+      "class": "text",
+      "id": "5E08A8C5-1B9C-468C-B392-1FFBD60176FC"
+    },
+    {
+      "class": "text",
+      "id": "AA8D45C8-EDA2-4249-8E5B-88EE7D05F411"
+    },
+    {
+      "class": "text",
+      "id": "33A80BF8-75C7-4CBF-B3F0-D47590C1B0B3"
+    },
+    {
+      "class": "text",
+      "id": "CC814FB2-C725-47DB-A5E4-74D059EAE311"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8636A018-73FB-4B59-9136-353F474D7A1D"
     }
   ],
   "name": "Dish Review (Dish Filter) Copy",
