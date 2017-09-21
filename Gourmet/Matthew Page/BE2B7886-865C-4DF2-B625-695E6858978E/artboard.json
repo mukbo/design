@@ -26,7 +26,7 @@
     "y": 681
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,6 +72,18 @@
     {
       "class": "text",
       "id": "3A2B70B7-2729-4374-B9E7-400801887A16"
+    },
+    {
+      "class": "group",
+      "id": "13951CA2-163E-4FE9-BF03-451B73F2F80E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E79CE43F-E60F-456D-B819-AFECAB4D79E4"
+    },
+    {
+      "class": "text",
+      "id": "93CE7E42-49BD-4BF7-8D9A-072608A7D00A"
     }
   ],
   "name": "Dish Review (Write Review)",
